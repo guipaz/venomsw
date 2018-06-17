@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VenomSW", "VenomSW\VenomSW.csproj", "{FF115AC4-E702-409E-B64B-142915962D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDiff", "..\ImageDiff\ImageDiff\ImageDiff.csproj", "{8C9C4ABC-4D3A-4DCD-AEE1-95E07E4FAE9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VenomTools", "VenomTools\VenomTools.csproj", "{21E3C1E8-4862-4E94-B4A9-0133404125DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF115AC4-E702-409E-B64B-142915962D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF115AC4-E702-409E-B64B-142915962D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF115AC4-E702-409E-B64B-142915962D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF115AC4-E702-409E-B64B-142915962D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9C4ABC-4D3A-4DCD-AEE1-95E07E4FAE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9C4ABC-4D3A-4DCD-AEE1-95E07E4FAE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9C4ABC-4D3A-4DCD-AEE1-95E07E4FAE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9C4ABC-4D3A-4DCD-AEE1-95E07E4FAE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E3C1E8-4862-4E94-B4A9-0133404125DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E3C1E8-4862-4E94-B4A9-0133404125DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E3C1E8-4862-4E94-B4A9-0133404125DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E3C1E8-4862-4E94-B4A9-0133404125DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A987B9-B045-4BC4-93F1-5AFFB1B01260}
+	EndGlobalSection
+EndGlobal

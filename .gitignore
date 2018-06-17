@@ -1,0 +1,7 @@
+bin/
+obj/
+*.suo
+*.ide
+packages/
+x64/
+x86/
